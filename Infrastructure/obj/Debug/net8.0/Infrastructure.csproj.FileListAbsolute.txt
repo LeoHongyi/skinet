@@ -1,0 +1,15 @@
+/Users/hongyiliu/skinet/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/hongyiliu/skinet/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/hongyiliu/skinet/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/hongyiliu/skinet/Infrastructure/bin/Debug/net8.0/Core.dll
+/Users/hongyiliu/skinet/Infrastructure/bin/Debug/net8.0/Core.pdb
+/Users/hongyiliu/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/hongyiliu/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hongyiliu/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/hongyiliu/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/hongyiliu/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/hongyiliu/skinet/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/hongyiliu/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/hongyiliu/skinet/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/hongyiliu/skinet/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/hongyiliu/skinet/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
